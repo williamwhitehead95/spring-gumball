@@ -31,4 +31,4 @@ public class NoQuarterState implements State {
 }
 
 
-//this is an innocent change to the code to trigger the Github action
+//this is an innocent change to the code to trigger the Github action.
