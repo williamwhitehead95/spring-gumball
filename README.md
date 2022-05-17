@@ -2,22 +2,22 @@
 
 
 # Gradle Github action
-![Screenshot 1](/spring-gumball/images/image1.png)
+![Screenshot 1](images/image1.png)
 
 # Google Kubernetes Engine Github action
-![Screenshot 2](/spring-gumball/images/image2.png)
+![Screenshot 2](/images/image2.png)
 
 # Google Kubernetes Engine IAM policies
-![Screenshot 3](/spring-gumball/images/image5.png)
+![Screenshot 3](/images/image5.png)
 
 # GKE Secret Keys in Repo Secrets
-![Screenshot 6](/spring-gumball/images/image6.png)
+![Screenshot 6](/images/image6.png)
 
 # Google Kubernetes Engine IAM support
-![Screenshot 4](/spring-gumball/images/image3.png)
+![Screenshot 4](/images/image3.png)
 
 # GKE Integration Github support
-![Screenshot 5](/spring-gumball/images/image4.png)
+![Screenshot 5](/images/image4.png)
 
 
 # CI Workflow (Part 1)
